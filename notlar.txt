@@ -1,2 +1,1 @@
-git öğreniyorum.
-bugün commit atmayı öğrendim.
+Takim arkadasinin yazdigi kod
