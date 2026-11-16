@@ -1,1 +1,2 @@
 git öğreniyorum.
+bugün commit atmayı öğrendim.
